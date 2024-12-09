@@ -4,18 +4,24 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 UTSA Computer Science Student
 -----------------------------
 
-An undergraduate CS student graduating in 2025.
+**Graduation Date: Fall 2025**
 
 *   🌍  I'm based in San Antonio, Texas
 *   ✉️  You can contact me at [cassandrakgomez@gmail.com](mailto:cassandrakgomez@gmail.com)
-*   🧠  I'm learning Application Programming and Analysis of Algorithms
-*   ⚡  I'm secretly a huge musical theatre fan, but just keep that between us! 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a><a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>
-                    </p>
+*   🧠  I'm learning Game Development and Data Science
 
-                    ## #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@cassandrakgomez/30-nites-of-code)  
+  # Current Projects
+  ⚡2D Platformer Game: https://github.com/cassandrakgomez/Dinnys-Dino-Adventure-ProgressUpdate
+  
+  ⚡AI Mentor Chatbot Using Retriveal Augmented Generation: [repo link coming soon]
+
+  # All Projects
+ 
+  ⚡Machine Learning, Census Data Analysis Using Clustering: https://github.com/cassandrakgomez/Census-Clustering-Machine-Learning-Project
+
+  # [Check out my coding progress on Codedex!](https://www.codedex.io/@cassandrakgomez/30-nites-of-code)  
   ![@cassandrakgomez #30NitesOfCode](https://www.codedex.io/api/petStatus?user=cassandrakgomez)
+
+
                     
                
