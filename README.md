@@ -6,16 +6,17 @@ UTSA Computer Science Student
 
 **Graduation Date: Fall 2025**
 
-*   🌍  I'm based in San Antonio, Texas
-*   ✉️  You can contact me at [cassandrakgomez@gmail.com](mailto:cassandrakgomez@gmail.com)
-*   🧠  I'm learning Game Development and Data Science
+*   🌍  I'm based in San Antonio, Texas
+*   ✉️  You can contact me at [cassandrakgomez@gmail.com](mailto:cassandrakgomez@gmail.com)
+*   🧠  I'm currently learning Game Development, Data Science and Machine Learning
+*   📜  Earned a Machine Learning Foundations Certifcate from Cornell University
 
   # Current Projects
-  ⚡2D Platformer Game: https://github.com/cassandrakgomez/Dinnys-Dino-Adventure
+*  ⚡2D Platformer Game: https://github.com/cassandrakgomez/Dinnys-Dino-Adventure
   
-  ⚡AI Mentor Chatbot Using Retriveal Augmented Generation: [repo link coming soon]
+*  ⚡Project Sparky - AI Mentor Chatbot Using Retriveal Augmented Generation: [repo link coming soon]
 
-  ⚡VQ-GAN & CLIP, Using AI to generate images: https://utsacloud-my.sharepoint.com/:p:/g/personal/cassandra_gomez2_my_utsa_edu/EQ3G2r4iyzNMvAZV3ZkagG4BvTY63wuDXycRD6v74Yoj5Q?e=atjSiv
+*  ⚡VQ-GAN & CLIP, Using AI to generate images: https://utsacloud-my.sharepoint.com/:p:/g/personal/cassandra_gomez2_my_utsa_edu/EQ3G2r4iyzNMvAZV3ZkagG4BvTY63wuDXycRD6v74Yoj5Q?e=atjSiv
   
 
 
