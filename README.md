@@ -19,9 +19,6 @@ UTSA Computer Science Student
  
   ⚡Machine Learning, Census Data Analysis Using Clustering: https://github.com/cassandrakgomez/Census-Clustering-Machine-Learning-Project
 
-  # [Check out my coding progress on Codedex!](https://www.codedex.io/@cassandrakgomez/30-nites-of-code)  
-  ![@cassandrakgomez #30NitesOfCode](https://www.codedex.io/api/petStatus?user=cassandrakgomez)
-
 
                     
                
