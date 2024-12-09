@@ -11,13 +11,12 @@ UTSA Computer Science Student
 *   🧠  I'm learning Game Development and Data Science
 
   # Current Projects
-  ⚡2D Platformer Game: https://github.com/cassandrakgomez/Dinnys-Dino-Adventure-ProgressUpdate
+  ⚡2D Platformer Game: https://github.com/cassandrakgomez/Dinnys-Dino-Adventure
   
   ⚡AI Mentor Chatbot Using Retriveal Augmented Generation: [repo link coming soon]
 
-  # All Projects
- 
-  ⚡Machine Learning, Census Data Analysis Using Clustering: https://github.com/cassandrakgomez/Census-Clustering-Machine-Learning-Project
+  ⚡VQ-GAN & CLIP, Using AI to generate images: https://utsacloud-my.sharepoint.com/:p:/g/personal/cassandra_gomez2_my_utsa_edu/EQ3G2r4iyzNMvAZV3ZkagG4BvTY63wuDXycRD6v74Yoj5Q?e=atjSiv
+  
 
 
                     
