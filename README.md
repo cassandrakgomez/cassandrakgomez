@@ -8,7 +8,7 @@ UTSA Computer Science Student
 
 *   🌍  I'm based in San Antonio, Texas
 *   ✉️  You can contact me at [cassandrakgomez@gmail.com](mailto:cassandrakgomez@gmail.com)
-*   🧠  I'm currently learning Game Development, Data Science and Machine Learning
+*   🧠  I'm currently learning Game Development, Machine Learning, and Database Systems
 *   📜  Earned a Machine Learning Foundations Certifcate from Cornell University
 
   # Current Projects
