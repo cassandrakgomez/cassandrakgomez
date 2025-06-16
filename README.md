@@ -13,8 +13,7 @@ UTSA Computer Science Student
 
   # Recent Projects
 *  ⚡2D Platformer Game: https://github.com/cassandrakgomez/Dinnys-Dino-Adventure
-  
-*  ⚡Project Sparky - AI Mentor Chatbot Using Retriveal Augmented Generation: [repo link coming soon]
+*  ⚡Animal Crossing Inspired Database: https://github.com/cassandrakgomez/animalcrawling
   
 
 
