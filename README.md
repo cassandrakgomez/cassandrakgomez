@@ -8,12 +8,13 @@ UTSA Computer Science Student
 
 *   🌍  I'm based in San Antonio, Texas
 *   ✉️  You can contact me at [cassandrakgomez@gmail.com](mailto:cassandrakgomez@gmail.com)
-*   🧠  I'm currently learning Game Development, Machine Learning, and Database Systems
+*   🧠  I'm currently learning Web Technologies, User Interfaces, and Data Mining
 *   📜  Earned a Machine Learning Foundations Certifcate from Cornell University
 
   # Recent Projects
 *  ⚡2D Platformer Game: https://github.com/cassandrakgomez/Dinnys-Dino-Adventure
 *  ⚡Animal Crossing Inspired Database: https://github.com/cassandrakgomez/animalcrawling
+*  ⚡Coffee Idle Game: https://github.com/cassandrakgomez/ui-idle-game
   
 
 
