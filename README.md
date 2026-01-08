@@ -1,20 +1,24 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Cassandra Gomez
+Hi 👋 My name is Cassandra Gomez
 =======================================================================================================================================
 
-UTSA Computer Science Student
------------------------------
+## MBA Student with Buisness Analytics Concentration
 
-**Graduation Date: Fall 2025**
+
+**Graduation Date: December 2027**
 
 *   🌍  I'm based in San Antonio, Texas
 *   ✉️  You can contact me at [cassandrakgomez@gmail.com](mailto:cassandrakgomez@gmail.com)
-*   🧠  I'm currently learning Web Technologies, User Interfaces, and Data Mining
-*   📜  Earned a Machine Learning Foundations Certifcate from Cornell University
+*   🧠  I'm currently learning more about financial markets and accounting foundations
+*   📜  B.S. in Computer Science, concentration in Data Science
+*   📜  Machine Learning Foundations Certificate from Cornell University
 
-  # Recent Projects
-*  ⚡2D Platformer Game: https://github.com/cassandrakgomez/Dinnys-Dino-Adventure
-*  ⚡Animal Crossing Inspired Database: https://github.com/cassandrakgomez/animalcrawling
-*  ⚡Coffee Idle Game: https://github.com/cassandrakgomez/ui-idle-game
+---
+
+  ## Recent Projects
+*  Animal Crossing Inspired Database: https://github.com/cassandrakgomez/animalcrawling
+*  Coffee Idle Game: https://github.com/cassandrakgomez/ui-idle-game
+*  2D Platformer Game: https://github.com/cassandrakgomez/Dinnys-Dino-Adventure
+
   
 
 
