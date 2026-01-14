@@ -15,7 +15,9 @@ Hi 👋 My name is Cassandra Gomez
 ---
 
   ## Recent Projects
-*  Animal Crossing Inspired Database: https://github.com/cassandrakgomez/animalcrawling
+*  Personal Full Stack Website: https://github.com/cassandrakgomez/Personal-PHP-Website
+*  Private Donor & Grant Analytics (Intern Project): TBD
+*  Animal Crossing - Database Design and Analysis: https://github.com/cassandrakgomez/animalcrawling
 *  Coffee Idle Game: https://github.com/cassandrakgomez/ui-idle-game
 *  2D Platformer Game: https://github.com/cassandrakgomez/Dinnys-Dino-Adventure
 
